@@ -1,0 +1,1 @@
+A personal template for generating PDF files to be used as handouts for classes and/or seminars using Emacs org-mode.
