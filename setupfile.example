@@ -1,0 +1,4 @@
+#+AUTHOR: (author name)
+#+EMAIL: (author e-mail)
+#+DESCRIPTION: (course or seminar title)
+#+CITE_EXPORT: biblatex authoryear-comp,backend=biber,giveninits=true

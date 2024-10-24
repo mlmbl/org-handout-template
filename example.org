@@ -1,0 +1,13 @@
+#+STARTUP: content
+#+SETUPFILE: setupfile.example
+#+TITLE: This is title
+#+SUBTITLE: This is subtitle
+#+DESCRIPTION: (Session number here)
+#+KEYWORDS: Keyword1, keyword2, keyword3
+
+* Introduction
+
+This is a template. This is citation [cite:@dart1925au].
+
+
+#+PRINT_BIBLIOGRAPHY:
